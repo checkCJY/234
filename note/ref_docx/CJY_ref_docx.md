@@ -3,12 +3,16 @@
 
 ---
 
+### 프로젝트와 관련된 내용
+
+
+### Git과 관련된 내용
+
 제목 : 브랜치 명령어 모음
 - 내용 : 생성, 브란치 전환,
 - 참고자료: 
 https://velog.io/@chayezo/Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EB%AA%85%EB%A0%B9%EC%96%B4
 https://mobicon.tistory.com/163
-
 
 제목 : Git merge branch 연습하기
 - 내용 : 나중에 병합시 명령어를 통해 병합하는 과정에 대한 설명
@@ -16,6 +20,8 @@ https://mobicon.tistory.com/163
 
 제목 : Github 브랜치 병합 전략 이해하기
 - 참고자료 : https://adjh54.tistory.com/665
+
+### 그 외 자료
 
 제목 : Draw.io 사용해보기
 - 내용 : 사용자에게 설명시키기 위한 흐름도 작성에 도움이 될 것 같음.
